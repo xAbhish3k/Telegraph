@@ -8,7 +8,7 @@
         "Telegram Bot",
         "war Bots"
     ],
-    "repository": "https://github.com/War-Legend/tgraph",
+    "repository": "https://github.com/War-Legend/Telegraph",
     "success_url": "https://t.me/camila_support",
     "env": {
         "TG_BOT_TOKEN": {
